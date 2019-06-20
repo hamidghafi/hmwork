@@ -1,4 +1,5 @@
 function c=fai(L,N)
+% this function is to
 f=10^7;
 C=3*10^8;
 lambda=C/f;
