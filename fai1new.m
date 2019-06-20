@@ -1,4 +1,5 @@
 function c=fai1(L1,L2,d)
+%% to add in git repos
 f=10^8;
 C=3*10^8;
 lambda=C/f;
